@@ -1,4 +1,3 @@
-101-quote.c
 #include <unistd.h>
 /**
  * main - Entry point
